@@ -1,5 +1,4 @@
 # PCB-Detection
-pcb detection
 first start flask server server.py by using command
 ---python server.py
 
